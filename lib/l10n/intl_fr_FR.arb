@@ -1,0 +1,5 @@
+{
+    "appTitle": "Contre-application",
+    "pageTitle": "Contre-application - Page d'accueil",
+    "counterText": "{counter, plural, zero{Vous n'avez jamais appuyé sur ce bouton.} one{Vous avez appuyé 1 fois sur ce bouton.} other{Vous avez appuyé sur ce bouton {counter} fois.}}"
+}

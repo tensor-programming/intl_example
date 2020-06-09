@@ -1,0 +1,5 @@
+{
+    "appTitle": "カウンターアプリケーション",
+    "pageTitle": "カウンターアプリケーション - ホームページ",
+    "counterText": "{counter, plural, zero{このボタンを押したことはありません。} other{ボタンを{counter}回押しました。}}"
+}

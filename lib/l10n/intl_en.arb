@@ -1,0 +1,7 @@
+{
+    "appTitle": "Counter App",
+    "pageTitle": "Counter App - Home Page",
+    "counterText": "{counter, plural, zero{You have never pushed this button.} one{You have pushed this button 1 time.} other{You have pushed this button {counter} times.}}",
+    "genderValue": "{gender, select, female{Her} male{Him} other{Them}}",
+    "selectValue": "{role, select, member{You are a member} admin{You are an admin} other{sign up}}"
+}
